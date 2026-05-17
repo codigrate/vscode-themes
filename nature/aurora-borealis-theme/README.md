@@ -99,8 +99,8 @@
 ### Codigrate Theme Collection
 <table width="100%">
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22653-everest-theme"><b>Everest</b></a><br/><sub>Nature - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/everest-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-everest-theme"><b>Everest</b></a><br/><sub>Nature - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/FDFEFF.png?width=18&height=18" alt="#FDFEFF">
         <img src="https://codigrate.com/util/color/E4ECEF.png?width=18&height=18" alt="#E4ECEF">
@@ -117,8 +117,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme"><b>Sakura</b></a><br/><sub>Nature - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/sakura-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-sakura-theme"><b>Sakura</b></a><br/><sub>Nature - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/FEFCFC.png?width=18&height=18" alt="#FEFCFC">
         <img src="https://codigrate.com/util/color/F8DBE6.png?width=18&height=18" alt="#F8DBE6">
@@ -135,8 +135,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme"><b>Autumn</b></a><br/><sub>Nature - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/autumn-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-autumn-theme"><b>Autumn</b></a><br/><sub>Nature - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/F8F4F1.png?width=18&height=18" alt="#F8F4F1">
         <img src="https://codigrate.com/util/color/F4D3BD.png?width=18&height=18" alt="#F4D3BD">
@@ -153,8 +153,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme"><b>Aurora Borealis</b></a><br/><sub>Nature – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme</b></a><br/><sub>Nature – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/142B37.png?width=18&height=18" alt="#142B37">
         <img src="https://codigrate.com/util/color/183240.png?width=18&height=18" alt="#183240">
@@ -171,8 +171,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sequoia-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme"><b>Sequoia</b></a><br/><sub>Nature – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/sequoia-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-sequoia-theme"><b>Sequoia</b></a><br/><sub>Nature – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/20231C.png?width=18&height=18" alt="#20231C">
         <img src="https://codigrate.com/util/color/32382C.png?width=18&height=18" alt="#32382C">
@@ -189,8 +189,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/roraima-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme"><b>Roraima</b></a><br/><sub>Nature – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/roraima-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-roraima-theme"><b>Roraima</b></a><br/><sub>Nature – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/1E1A1B.png?width=18&height=18" alt="#1E1A1B">
         <img src="https://codigrate.com/util/color/322628.png?width=18&height=18" alt="#322628">
@@ -207,8 +207,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme"><b>Istanbul</b></a><br/><sub>City - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/istanbul-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-istanbul-theme"><b>Istanbul</b></a><br/><sub>City - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/FAFDFD.png?width=18&height=18" alt="#FAFDFD">
         <img src="https://codigrate.com/util/color/DBF0F1.png?width=18&height=18" alt="#DBF0F1">
@@ -225,8 +225,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/rio-de-janeiro-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme"><b>Rio de Janeiro</b></a><br/><sub>City - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/rio-de-janeiro-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-rio-de-janeiro-theme"><b>Rio de Janeiro</b></a><br/><sub>City - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/F7FAF6.png?width=18&height=18" alt="#F7FAF6">
         <img src="https://codigrate.com/util/color/D9EFD2.png?width=18&height=18" alt="#D9EFD2">
@@ -243,8 +243,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tallinn-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme"><b>Tallinn</b></a><br/><sub>City - Light</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/tallinn-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-tallinn-theme"><b>Tallinn</b></a><br/><sub>City - Light</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/EDF2FA.png?width=18&height=18" alt="#EDF2FA">
         <img src="https://codigrate.com/util/color/D0DCEF.png?width=18&height=18" alt="#D0DCEF">
@@ -261,8 +261,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29582-miami-theme"><b>Miami</b></a><br/><sub>City – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/miami-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-miami-theme"><b>Miami</b></a><br/><sub>City – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/33121D.png?width=18&height=18" alt="#33121D">
         <img src="https://codigrate.com/util/color/532033.png?width=18&height=18" alt="#532033">
@@ -279,8 +279,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29603-paris-theme"><b>Paris</b></a><br/><sub>City – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/paris-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-paris-theme"><b>Paris</b></a><br/><sub>City – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/281D22.png?width=18&height=18" alt="#281D22">
         <img src="https://codigrate.com/util/color/4F303C.png?width=18&height=18" alt="#4F303C">
@@ -297,8 +297,8 @@
 </tr>
 
 <tr>
-<td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme"><b>Tokyo</b></a><br/><sub>City – Dark</sub></td>
+<td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/tokyo-theme/images/icon.png" width="52"></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.codigrate-tokyo-theme"><b>Tokyo</b></a><br/><sub>City – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/1A1F35.png?width=18&height=18" alt="#1A1F35">
         <img src="https://codigrate.com/util/color/2A3051.png?width=18&height=18" alt="#2A3051">
