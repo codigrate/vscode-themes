@@ -1,4 +1,4 @@
-<b>Color Palette</b>
+### Color Palette
 <table>
 <tr>
         <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
@@ -91,15 +91,12 @@
         </td>
 </tr>
 </table>
-<br/>
-<br/>
-<b>Screenshots</b>
-<br/>
-<br/>
-<img src="https://github.com/codigrate/vscode-themes/blob/main/nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
-<br/>
-<br/>
-<b>Codigrate Theme Collection</b>
+
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
+
+### Codigrate Theme Collection
 <table width="100%">
 <tr>
 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="52"></td>
@@ -317,15 +314,13 @@
 </td>
 </tr>
 </table>
-<br/>
-<br/>
+
+
 Enjoying our theme? Giving us a <b>5-star</b> rating on the VS Code Marketplace helps us grow and create more themes!
-<br/>
-<br/>
+
 Have feedback or found an issue? Please report it on our <a href="https://github.com/codigrate/vscode-themes/issues"><b>Issue Tracker</b></a>.
-<br/>
-<br/>
-<b>Company Website</b>
+
+### Company Website
 <table>
 <tr>
         <td>
