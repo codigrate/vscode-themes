@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.6
+
+- Fix README.md.
+
 ## 2026.1.5
 
 - Fix README.md.
