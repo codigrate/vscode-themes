@@ -1,0 +1,48 @@
+{
+  "name": "cod-rio-de-janeiro-theme",
+  "displayName": "Codigrate Rio de Janeiro Theme",
+  "description": "Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.",
+  "version": "2026.1.1",
+  "publisher": "codigrate",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "rio",
+    "de",
+    "janeiro",
+    "rio de janeiro",
+    "cities",
+    "tropical",
+    "coastal",
+    "energetic"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#D9EFD2",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codigrate Rio de Janeiro",
+        "uiTheme": "vs",
+        "path": "./themes/rio-de-janeiro-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigrate/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/codigrate/vscode-themes/issues"
+  },
+  "homepage": "https://codigrate.com",
+  "pricing": "Free"
+}
