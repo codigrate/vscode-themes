@@ -1,3 +1,5 @@
 /.idea
 generate-from-jetbrains-themes.js
 /out/
+.DS_Store
+*.vsix
