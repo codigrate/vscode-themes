@@ -154,7 +154,7 @@
 
 <tr>
 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="52"></td>
-<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme</b></a><br/><sub>Nature – Dark</sub></td>
+<td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme"><b>Aurora Borealis</b></a><br/><sub>Nature – Dark</sub></td>
 <td>
         <img src="https://codigrate.com/util/color/142B37.png?width=18&height=18" alt="#142B37">
         <img src="https://codigrate.com/util/color/183240.png?width=18&height=18" alt="#183240">
