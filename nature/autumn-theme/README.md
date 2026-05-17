@@ -92,6 +92,10 @@
    </tr>
 </table>
 
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/autumn-theme/screenshot-1.png" alt="screenshot">
+
 ### Codigrate Theme Collection
 <table width="100%">
   <tr>

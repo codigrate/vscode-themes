@@ -2,7 +2,7 @@
   "name": "cod-autumn-theme",
   "displayName": "Codigrate Autumn Theme",
   "description": "Inspired by the warm hues and rustic feel of autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes.",
-  "version": "2026.1.1",
+  "version": "2026.1.2",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
