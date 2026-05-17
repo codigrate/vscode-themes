@@ -1,9 +1,4 @@
-## Screenshots
-
-<img src="https://github.com/codigrate/vscode-themes/blob/main/nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
-
-## Color Palette
-
+<b>Color Palette</b>
 <table>
 <tr>
         <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
@@ -96,6 +91,12 @@
         </td>
 </tr>
 </table>
+<br/>
+<br/>
+<b>Screenshots</b>
+<br/>
+<br/>
+<img src="https://github.com/codigrate/vscode-themes/blob/main/nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
 <br/>
 <br/>
 <b>Codigrate Theme Collection</b>
