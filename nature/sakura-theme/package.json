@@ -1,0 +1,45 @@
+{
+  "name": "cod-sakura-theme",
+  "displayName": "Codigrate Sakura Theme",
+  "description": "Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky.",
+  "version": "2026.1.1",
+  "publisher": "codigrate",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "sakura",
+    "nature",
+    "pastel",
+    "soft",
+    "elegant"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#FCF4F7",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codigrate Sakura",
+        "uiTheme": "vs",
+        "path": "./themes/sakura-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigrate/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/codigrate/vscode-themes/issues"
+  },
+  "homepage": "https://codigrate.com",
+  "pricing": "Free"
+}
