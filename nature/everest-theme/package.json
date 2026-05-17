@@ -1,0 +1,45 @@
+{
+  "name": "cod-everest-theme",
+  "displayName": "Codigrate Everest Theme",
+  "description": "Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.",
+  "version": "2026.1.1",
+  "publisher": "codigrate",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "everest",
+    "nature",
+    "calm",
+    "icy",
+    "minimal"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#E4ECEF",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codigrate Everest",
+        "uiTheme": "vs",
+        "path": "./themes/everest-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigrate/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/codigrate/vscode-themes/issues"
+  },
+  "homepage": "https://codigrate.com",
+  "pricing": "Free"
+}
