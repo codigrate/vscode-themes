@@ -1,0 +1,45 @@
+{
+  "name": "cod-paris-theme",
+  "displayName": "Codigrate Paris Theme",
+  "description": "Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance.",
+  "version": "2026.1.1",
+  "publisher": "codigrate",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "paris",
+    "cities",
+    "romantic",
+    "elegant",
+    "sunset"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#4F303C",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codigrate Paris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/paris-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigrate/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/codigrate/vscode-themes/issues"
+  },
+  "homepage": "https://codigrate.com",
+  "pricing": "Free"
+}
