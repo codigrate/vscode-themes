@@ -1,0 +1,45 @@
+{
+  "name": "cod-tokyo-theme",
+  "displayName": "Codigrate Tokyo Theme",
+  "description": "Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Luminous purples and lilacs add clarity and energy to key syntax elements.",
+  "version": "2026.1.1",
+  "publisher": "codigrate",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tokyo",
+    "cities",
+    "neon",
+    "futuristic",
+    "energetic"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#2A3051",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codigrate Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codigrate/vscode-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/codigrate/vscode-themes/issues"
+  },
+  "homepage": "https://codigrate.com",
+  "pricing": "Free"
+}
