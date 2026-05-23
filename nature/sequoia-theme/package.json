@@ -2,7 +2,7 @@
   "name": "cod-sequoia-theme",
   "displayName": "Codigrate Sequoia Theme",
   "description": "Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees.",
-  "version": "2026.1.1",
+  "version": "2026.1.2",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

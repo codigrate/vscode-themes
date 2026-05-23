@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.7
+
+- Published to the Open VSX Registry.
+
 ## 2026.1.6
 
 - Fix README.md.
