@@ -1,0 +1,7 @@
+README.openvsx.md
+background.png
+screenshot-*.png
+dist/**
+*.vsix
+.vscode/**
+.vscodeignore

@@ -42,6 +42,10 @@ Everest
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-everest-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-everest-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-everest-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-everest-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-everest-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-everest-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-everest-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-everest-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-everest-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-everest-theme)
+
 ## Description
 
 Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme brings a crisp and calming
@@ -162,6 +166,10 @@ Aurora Borealis
 [![Version](https://vsmarketplacebadges.dev/version/codigrate.cod-aurora-borealis-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-aurora-borealis-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-aurora-borealis-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme)
+
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-aurora-borealis-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-aurora-borealis-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-aurora-borealis-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-aurora-borealis-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-aurora-borealis-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-aurora-borealis-theme)
 
 ## Description
 
@@ -284,6 +292,10 @@ Sakura
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-sakura-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sakura-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-sakura-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sakura-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-sakura-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-sakura-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-sakura-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-sakura-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-sakura-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-sakura-theme)
+
 ## Description
 
 Inspired by the enchanting softness of Sakura blossoms, this theme brings a delicate spring atmosphere to VS Code.
@@ -405,6 +417,10 @@ Sequoia
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-sequoia-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sequoia-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-sequoia-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sequoia-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-sequoia-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-sequoia-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-sequoia-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-sequoia-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-sequoia-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-sequoia-theme)
+
 ## Description
 
 Inspired by the towering presence and grounded calm of sequoias, this dark theme surrounds VS Code with rich woodland
@@ -524,6 +540,10 @@ Autumn
 [![Version](https://vsmarketplacebadges.dev/version/codigrate.cod-autumn-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-autumn-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-autumn-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-autumn-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-autumn-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-autumn-theme)
+
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-autumn-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-autumn-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-autumn-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-autumn-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-autumn-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-autumn-theme)
 
 ## Description
 
@@ -646,6 +666,10 @@ Roraima
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-roraima-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-roraima-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-roraima-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-roraima-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-roraima-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-roraima-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-roraima-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-roraima-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-roraima-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-roraima-theme)
+
 ## Description
 
 Inspired by the dramatic sunset over Mount Roraima, this dark theme blends dusky purples, ember-like oranges,
@@ -767,6 +791,10 @@ Istanbul
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-istanbul-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-istanbul-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-istanbul-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-istanbul-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-istanbul-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-istanbul-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-istanbul-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-istanbul-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-istanbul-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-istanbul-theme)
+
 ## Description
 
 Inspired by the soft daylight and sea breezes of Istanbul, this theme brings airy turquoise tones and warm historical
@@ -886,6 +914,10 @@ Miami
 [![Version](https://vsmarketplacebadges.dev/version/codigrate.cod-miami-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-miami-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-miami-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-miami-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-miami-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-miami-theme)
+
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-miami-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-miami-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-miami-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-miami-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-miami-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-miami-theme)
 
 ## Description
 
@@ -1008,6 +1040,10 @@ Rio de Janeiro
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-rio-de-janeiro-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-rio-de-janeiro-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-rio-de-janeiro-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-rio-de-janeiro-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-rio-de-janeiro-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-rio-de-janeiro-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-rio-de-janeiro-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-rio-de-janeiro-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-rio-de-janeiro-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-rio-de-janeiro-theme)
+
 ## Description
 
 Inspired by Rio's lush hills, bright air, and coastal energy, this theme blends soft minty tones with vibrant greens
@@ -1127,6 +1163,10 @@ Paris
 [![Version](https://vsmarketplacebadges.dev/version/codigrate.cod-paris-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-paris-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-paris-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-paris-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-paris-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-paris-theme)
+
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-paris-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-paris-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-paris-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-paris-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-paris-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-paris-theme)
 
 ## Description
 
@@ -1248,6 +1288,10 @@ Tallinn
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-tallinn-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tallinn-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-tallinn-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tallinn-theme)
 
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-tallinn-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-tallinn-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-tallinn-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-tallinn-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-tallinn-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-tallinn-theme)
+
 ## Description
 
 Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for an editor
@@ -1367,6 +1411,10 @@ Tokyo
 [![Version](https://vsmarketplacebadges.dev/version/codigrate.cod-tokyo-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tokyo-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs/codigrate.cod-tokyo-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tokyo-theme)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/codigrate.cod-tokyo-theme.svg)](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tokyo-theme)
+
+[![Open VSX](https://img.shields.io/open-vsx/v/codigrate/cod-tokyo-theme?label=Open%20VSX)](https://open-vsx.org/extension/codigrate/cod-tokyo-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/codigrate/cod-tokyo-theme?label=Downloads)](https://open-vsx.org/extension/codigrate/cod-tokyo-theme)
+[![Open VSX Rating](https://img.shields.io/open-vsx/rating/codigrate/cod-tokyo-theme?label=Rating)](https://open-vsx.org/extension/codigrate/cod-tokyo-theme)
 
 ## Description
 

@@ -28,8 +28,10 @@ npx --yes ovsx create-namespace codigrate || true
 echo
 
 ok=0; fail=0; failed=()
-for vsix in cities/*-theme/*.vsix nature/*-theme/*.vsix; do
+for vsix in cities/*-theme/dist/open-vsx/*.vsix nature/*-theme/dist/open-vsx/*.vsix; do
   [[ -e "$vsix" ]] || continue
+  # skip iCloud/Finder conflict copies ("<name> 2.vsix") so we never double-publish
+  [[ "$vsix" == *" "[0-9]".vsix" ]] && { echo "Skipping duplicate copy: $vsix"; continue; }
   echo "==> Publishing $vsix"
   if npx --yes ovsx publish "$vsix"; then
     ok=$((ok+1))

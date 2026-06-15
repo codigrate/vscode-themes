@@ -1,8 +1,8 @@
 {
   "name": "cod-paris-theme",
   "displayName": "Codigrate Paris Theme",
-  "description": "Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance.",
-  "version": "2026.1.2",
+  "description": "Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.",
+  "version": "2026.1.11",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

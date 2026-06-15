@@ -1,8 +1,8 @@
 {
   "name": "cod-sakura-theme",
   "displayName": "Codigrate Sakura Theme",
-  "description": "Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky.",
-  "version": "2026.1.2",
+  "description": "Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.",
+  "version": "2026.1.16",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
