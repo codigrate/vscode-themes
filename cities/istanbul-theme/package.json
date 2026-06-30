@@ -2,7 +2,7 @@
   "name": "cod-istanbul-theme",
   "displayName": "Codigrate Istanbul Theme",
   "description": "Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.",
-  "version": "2026.1.12",
+  "version": "2026.1.13",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

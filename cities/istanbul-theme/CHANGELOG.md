@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.13
+
+- Refine accent and status colors
+
 ## 2026.1.12
 
 - Theme and configuration refinements
