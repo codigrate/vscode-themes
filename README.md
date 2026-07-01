@@ -613,12 +613,12 @@ and quietly expressive.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F5B211.png?width=30&height=30" alt="#F5B211"></td>
+      <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F5B211">#F5B211</a>
+         <a href="https://codigrate.com/tools/color/DEA51D">#DEA51D</a>
       </td>
    </tr>
    <tr>
@@ -1102,30 +1102,12 @@ and clean blues to create a light, refreshing VS Code experience that feels live
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/739E4B.png?width=30&height=30" alt="#739E4B"></td>
+      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
       <td>
-         Metadata
+         Secondary Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/739E4B">#739E4B</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/E6C41A.png?width=30&height=30" alt="#E6C41A"></td>
-      <td>
-         Alternate Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/E6C41A">#E6C41A</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
-      <td>
-         Instance Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
+         <a href="https://codigrate.com/tools/color/2287D5">#2287D5</a>
       </td>
    </tr>
    <tr>
@@ -1144,6 +1126,24 @@ and clean blues to create a light, refreshing VS Code experience that feels live
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/1065B8">#1065B8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Search Match
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ECDA61">#ECDA61</a>
       </td>
    </tr>
 </table>
@@ -1255,7 +1255,7 @@ plum-espresso depth, and soft blush accents into VS Code. It feels romantic, moo
    <tr>
       <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/5E7BB3">#5E7BB3</a>
