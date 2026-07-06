@@ -1520,22 +1520,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
    </tr>
 </table>
 
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-   <tr>
-      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
-   </tr>
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## LICENSE
+<!-- codigrate-readme-footer -->
 
 ## Contributing
 
