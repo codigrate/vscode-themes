@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
       <td>
+         Pale Birch
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
+      <td>
+         Apricot Haze
+      </td>
       <td>
          Selection Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30" alt="#BE553E"></td>
       <td>
+         Maple Rust
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/773918.png?width=30&height=30" alt="#773918"></td>
+      <td>
+         Acorn Brown
+      </td>
       <td>
          Metadata
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30" alt="#B0633A"></td>
       <td>
+         Copper Leaf
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30" alt="#A87F25"></td>
+      <td>
+         Harvest Gold
+      </td>
       <td>
          Instance Fields
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
       <td>
+         Golden Leaf
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
+      <td>
+         Pine Shadow
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/0E8113.png?width=30&height=30" alt="#0E8113"></td>
       <td>
+         Evergreen
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30" alt="#006E83"></td>
+      <td>
+         Mallard Teal
+      </td>
       <td>
          Keywords
       </td>

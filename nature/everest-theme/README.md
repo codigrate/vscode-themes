@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
       <td>
+         Summit Snow
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30" alt="#E4ECEF"></td>
+      <td>
+         Morning Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30" alt="#1A6D9F"></td>
       <td>
+         Mountain Blue
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30" alt="#005E79"></td>
+      <td>
+         Blue Ice
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30" alt="#007A47"></td>
       <td>
+         Juniper
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30" alt="#2E674F"></td>
+      <td>
+         Pine Ridge
+      </td>
       <td>
          Keywords
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30" alt="#83529B"></td>
       <td>
+         Mountain Iris
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8C4069.png?width=30&height=30" alt="#8C4069"></td>
+      <td>
+         Rhododendron
+      </td>
       <td>
          Global Variables
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30" alt="#ED7E5A"></td>
       <td>
+         Sunrise Flame
+      </td>
+      <td>
          Active Border Colors
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8F4446.png?width=30&height=30" alt="#8F4446"></td>
+      <td>
+         Granite Red
+      </td>
       <td>
          Parameters
       </td>

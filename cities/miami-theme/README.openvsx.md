@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
       <td>
+         Midnight Vice
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td>
+         Plum Night
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
       <td>
+         Miami Pink
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td>
+         Flamingo
+      </td>
       <td>
          Tag Colors
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
       <td>
+         Sunset Coral
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td>
+         Coral Haze
+      </td>
       <td>
          Keywords
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
       <td>
+         Art Deco Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td>
+         Electric Aqua
+      </td>
       <td>
          Parameters
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
       <td>
+         Palm Green
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td>
+         Golden Sand
+      </td>
       <td>
          Strings
       </td>

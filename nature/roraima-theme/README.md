@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
       <td>
+         Tepui Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+      <td>
+         Canyon Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30" alt="#582F29"></td>
       <td>
+         Terracotta Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
+      <td>
+         Coral Canyon
+      </td>
       <td>
          Keywords
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
       <td>
+         Amber Sand
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
+      <td>
+         Savanna Gold
+      </td>
       <td>
          Metadata
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
       <td>
+         Dry Grass
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
+      <td>
+         Pink Quartz
+      </td>
       <td>
          Static Fields
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
       <td>
+         Orchid Mist
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Twilight Violet
+      </td>
       <td>
          Tag Name
       </td>

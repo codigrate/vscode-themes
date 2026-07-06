@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
       <td>
+         Forest Floor
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
+      <td>
+         Evergreen Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
       <td>
+         Fern Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
+      <td>
+         Meadow Green
+      </td>
       <td>
          Instance Fields
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
       <td>
+         Jade Moss
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
+      <td>
+         Golden Bark
+      </td>
       <td>
          Strings
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
       <td>
+         Warm Timber
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
+      <td>
+         Redwood Clay
+      </td>
       <td>
          Local Variables
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
       <td>
+         Faded Rosewood
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+      <td>
+         Driftwood
+      </td>
       <td>
          Comments
       </td>

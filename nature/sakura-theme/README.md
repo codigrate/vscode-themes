@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
       <td>
+         Blossom White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
+      <td>
+         Petal Veil
+      </td>
       <td>
          Surface Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
       <td>
+         Full Bloom
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/CB6B91.png?width=30&height=30" alt="#CB6B91"></td>
+      <td>
+         Rose Garden
+      </td>
       <td>
          Parameters
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30" alt="#98556C"></td>
       <td>
+         Plum Wine
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
+      <td>
+         Spring Leaf
+      </td>
       <td>
          Active Background
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30" alt="#618C71"></td>
       <td>
+         Tea Leaf
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
+      <td>
+         Spring Rain
+      </td>
       <td>
          Static Fields
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30" alt="#607FA9"></td>
       <td>
+         River Stone
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30" alt="#687788"></td>
+      <td>
+         Morning Fog
+      </td>
       <td>
          Global Variables
       </td>

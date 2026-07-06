@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
       <td>
+         Tokyo Midnight
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30" alt="#2A3051"></td>
+      <td>
+         Indigo District
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
       <td>
+         Metro Indigo
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30" alt="#7FA0DD"></td>
+      <td>
+         Skyline Blue
+      </td>
       <td>
          Tag Colors
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
       <td>
+         Shibuya Blue
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
+      <td>
+         Pink Neon
+      </td>
       <td>
          Instance Fields
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30" alt="#D3B690"></td>
       <td>
+         Paper Lantern
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DD9B7F.png?width=30&height=30" alt="#DD9B7F"></td>
+      <td>
+         Amber Sign
+      </td>
       <td>
          Parameters
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30" alt="#5CC19D"></td>
       <td>
+         Matcha Neon
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30" alt="#5DC8D6"></td>
+      <td>
+         Cyan Sign
+      </td>
       <td>
          Strings
       </td>

@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/EDF2FA.png?width=30&height=30" alt="#EDF2FA"></td>
       <td>
+         Baltic Morning
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D0DCEF.png?width=30&height=30" alt="#D0DCEF"></td>
+      <td>
+         Winter Sky
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30" alt="#377CC1"></td>
       <td>
+         Harbor Blue
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30" alt="#425EB8"></td>
+      <td>
+         Cobalt Spire
+      </td>
       <td>
          Keywords
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/324979.png?width=30&height=30" alt="#324979"></td>
       <td>
+         Old Town Indigo
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/81549C.png?width=30&height=30" alt="#81549C"></td>
+      <td>
+         Amethyst
+      </td>
       <td>
          Strings
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30" alt="#B6564B"></td>
       <td>
+         Brick Lane
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
+      <td>
+         Weathered Brick
+      </td>
       <td>
          Tag Colors
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
       <td>
+         Courtyard Green
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30" alt="#1E7857"></td>
+      <td>
+         Spruce Green
+      </td>
       <td>
          Local Variables
       </td>

@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30" alt="#281D22"></td>
       <td>
+         Parisian Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4F303C.png?width=30&height=30" alt="#4F303C"></td>
+      <td>
+         Cabaret Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30" alt="#6A3C4D"></td>
       <td>
+         Rosewood
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30" alt="#D584A3"></td>
+      <td>
+         Montmartre Rose
+      </td>
       <td>
          Keywords
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
       <td>
+         Cherry Macaron
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
+      <td>
+         Peach Macaron
+      </td>
       <td>
          Instance Fields
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30" alt="#FBBA77"></td>
       <td>
+         Cafe Lights
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30" alt="#F1C970"></td>
+      <td>
+         Champagne Gold
+      </td>
       <td>
          Parameters
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
+         Seine Blue
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30" alt="#87A1D3"></td>
+      <td>
+         Twilight Blue
+      </td>
       <td>
          Local Variables
       </td>

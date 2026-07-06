@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/FAFDFD.png?width=30&height=30" alt="#FAFDFD"></td>
       <td>
+         Marble White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBF0F1.png?width=30&height=30" alt="#DBF0F1"></td>
+      <td>
+         Bosphorus Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30" alt="#A3DDE5"></td>
       <td>
+         Sea Glass
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30" alt="#1190A1"></td>
+      <td>
+         Bosphorus Teal
+      </td>
       <td>
          Keywords
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30" alt="#0887B5"></td>
       <td>
+         Marmara Blue
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30" alt="#EFEAD0"></td>
+      <td>
+         Old Parchment
+      </td>
       <td>
          Active Background
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30" alt="#B87958"></td>
       <td>
+         Copper Bazaar
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30" alt="#B8514D"></td>
+      <td>
+         Rooftop Red
+      </td>
       <td>
          Parameters
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30" alt="#C16979"></td>
       <td>
+         Tulip Pink
+      </td>
+      <td>
          Tags
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/9C6E7C.png?width=30&height=30" alt="#9C6E7C"></td>
+      <td>
+         Ottoman Rose
+      </td>
       <td>
          Metadata
       </td>

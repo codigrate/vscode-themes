@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
       <td>
+         Polar Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/123243.png?width=30&height=30" alt="#123243"></td>
+      <td>
+         Arctic Depth
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
       <td>
+         Polar Blue
+      </td>
+      <td>
          Strings and Numbers
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
+      <td>
+         Arctic Cyan
+      </td>
       <td>
          Instance Fields
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
       <td>
+         Boreal Pine
+      </td>
+      <td>
          Tab Colors
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
+      <td>
+         Northern Green
+      </td>
       <td>
          Global Variables
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
       <td>
+         Teal Glow
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
+      <td>
+         Twilight Rose
+      </td>
       <td>
          Keywords
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
       <td>
+         Pink Aurora
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Lavender Light
+      </td>
       <td>
          Parameters
       </td>

@@ -3,6 +3,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
       <td>
+         Morning Breeze
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -11,6 +14,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30" alt="#D9EFD2"></td>
+      <td>
+         Palm Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -21,6 +27,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30" alt="#85B778"></td>
       <td>
+         Jungle Canopy
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -29,6 +38,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30" alt="#13A166"></td>
+      <td>
+         Emerald Palm
+      </td>
       <td>
          Keywords
       </td>
@@ -39,6 +51,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30" alt="#028134"></td>
       <td>
+         Deep Jungle
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -47,6 +62,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
+      <td>
+         Guanabara Blue
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -57,6 +75,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
       <td>
+         Atlantic Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -65,6 +86,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1065B8.png?width=30&height=30" alt="#1065B8"></td>
+      <td>
+         Bay Blue
+      </td>
       <td>
          Tags
       </td>
@@ -75,6 +99,9 @@
    <tr>
       <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
       <td>
+         Golden Samba
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -83,6 +110,9 @@
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Ipanema Sun
+      </td>
       <td>
          Search Match
       </td>
