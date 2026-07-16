@@ -1,3 +1,11 @@
+### Features
+
+- Complete workbench theming across the editor, sidebar, activity bar, status bar, panels, tabs and the integrated terminal
+- Carefully tuned syntax highlighting with semantic token coloring for readable code
+- Purposeful, distinct colors for keywords, strings, numbers, variables, parameters and comments
+- Calm, nature-inspired palette designed for long, comfortable coding sessions
+- Actively maintained and regularly refined
+
 ### Color Palette
 <table>
    <tr>

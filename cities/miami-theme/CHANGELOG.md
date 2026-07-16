@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.16
+
+- Update description
+
 ## 2026.1.15
 
 - Refine accent and status colors

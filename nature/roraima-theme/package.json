@@ -2,7 +2,7 @@
   "name": "cod-roraima-theme",
   "displayName": "Codigrate Roraima Theme",
   "description": "Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.",
-  "version": "2026.1.19",
+  "version": "2026.1.20",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
