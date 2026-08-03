@@ -150,7 +150,7 @@
          <img src="https://codigrate.com/util/color/8C4069.png?width=18&height=18" alt="#8C4069">
          <img src="https://codigrate.com/util/color/ED7E5A.png?width=18&height=18" alt="#ED7E5A">
          <img src="https://codigrate.com/util/color/8F4446.png?width=18&height=18" alt="#8F4446"><br/>
-         <sub>Calm - Icy - Minimal</sub>
+         <sub>Calm - Icy - Sunrise</sub>
       </td>
    </tr>
 
@@ -294,7 +294,7 @@
          <img src="https://codigrate.com/util/color/B1544B.png?width=18&height=18" alt="#B1544B">
          <img src="https://codigrate.com/util/color/548A64.png?width=18&height=18" alt="#548A64">
          <img src="https://codigrate.com/util/color/1E7857.png?width=18&height=18" alt="#1E7857"><br/>
-         <sub>Nordic - Minimal - Cool</sub>
+         <sub>Nordic - Icy - Cool</sub>
       </td>
    </tr>
 
