@@ -62,7 +62,7 @@
          Marmara Blue
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/0887B5">#0887B5</a>
@@ -135,6 +135,11 @@
 <img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/istanbul-theme/screenshot-1.png" alt="screenshot">
 
 ### Codigrate Theme Collection
+<br/>
+All 22 themes are available in the All In One plugin, and ten of them are
+available there only.
+<br/>
+<br/>
 <table width="100%">
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/everest-theme/images/icon.png" width="52"></td>
@@ -176,13 +181,13 @@
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/autumn-theme/images/icon.png" width="52"></td>
       <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-autumn-theme"><b>Autumn</b></a><br/><sub>Nature - Light</sub></td>
       <td>
+         <img src="https://codigrate.com/util/color/FCFBFA.png?width=18&height=18" alt="#FCFBFA">
          <img src="https://codigrate.com/util/color/F8F4F1.png?width=18&height=18" alt="#F8F4F1">
          <img src="https://codigrate.com/util/color/F4D3BD.png?width=18&height=18" alt="#F4D3BD">
          <img src="https://codigrate.com/util/color/BE553E.png?width=18&height=18" alt="#BE553E">
          <img src="https://codigrate.com/util/color/773918.png?width=18&height=18" alt="#773918">
          <img src="https://codigrate.com/util/color/B0633A.png?width=18&height=18" alt="#B0633A">
          <img src="https://codigrate.com/util/color/A87F25.png?width=18&height=18" alt="#A87F25">
-         <img src="https://codigrate.com/util/color/DEA51D.png?width=18&height=18" alt="#DEA51D">
          <img src="https://codigrate.com/util/color/1B591E.png?width=18&height=18" alt="#1B591E">
          <img src="https://codigrate.com/util/color/0E8113.png?width=18&height=18" alt="#0E8113">
          <img src="https://codigrate.com/util/color/006E83.png?width=18&height=18" alt="#006E83"><br/>
@@ -192,10 +197,10 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/aurora-borealis-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme"><b>Aurora Borealis</b></a><br/><sub>Nature – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-aurora-borealis-theme"><b>Aurora Borealis</b></a><br/><sub>Nature - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/142B37.png?width=18&height=18" alt="#142B37">
-         <img src="https://codigrate.com/util/color/183240.png?width=18&height=18" alt="#183240">
+         <img src="https://codigrate.com/util/color/123243.png?width=18&height=18" alt="#123243">
          <img src="https://codigrate.com/util/color/549EFF.png?width=18&height=18" alt="#549EFF">
          <img src="https://codigrate.com/util/color/7ACEF5.png?width=18&height=18" alt="#7ACEF5">
          <img src="https://codigrate.com/util/color/043A33.png?width=18&height=18" alt="#043A33">
@@ -210,7 +215,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/sequoia-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sequoia-theme"><b>Sequoia</b></a><br/><sub>Nature – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-sequoia-theme"><b>Sequoia</b></a><br/><sub>Nature - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/20231C.png?width=18&height=18" alt="#20231C">
          <img src="https://codigrate.com/util/color/32382C.png?width=18&height=18" alt="#32382C">
@@ -228,7 +233,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/roraima-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-roraima-theme"><b>Roraima</b></a><br/><sub>Nature – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-roraima-theme"><b>Roraima</b></a><br/><sub>Nature - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/1E1A1B.png?width=18&height=18" alt="#1E1A1B">
          <img src="https://codigrate.com/util/color/322628.png?width=18&height=18" alt="#322628">
@@ -246,7 +251,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/istanbul-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-istanbul-theme"><b>Istanbul</b></a><br/><sub>City - Light</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-istanbul-theme"><b>Istanbul</b></a><br/><sub>City - Light &middot; This Plugin</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/FAFDFD.png?width=18&height=18" alt="#FAFDFD">
          <img src="https://codigrate.com/util/color/DBF0F1.png?width=18&height=18" alt="#DBF0F1">
@@ -300,7 +305,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/miami-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-miami-theme"><b>Miami</b></a><br/><sub>City – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-miami-theme"><b>Miami</b></a><br/><sub>City - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/33121D.png?width=18&height=18" alt="#33121D">
          <img src="https://codigrate.com/util/color/532033.png?width=18&height=18" alt="#532033">
@@ -318,7 +323,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/paris-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-paris-theme"><b>Paris</b></a><br/><sub>City – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-paris-theme"><b>Paris</b></a><br/><sub>City - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/281D22.png?width=18&height=18" alt="#281D22">
          <img src="https://codigrate.com/util/color/4F303C.png?width=18&height=18" alt="#4F303C">
@@ -336,7 +341,7 @@
 
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/cities/tokyo-theme/images/icon.png" width="52"></td>
-      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tokyo-theme"><b>Tokyo</b></a><br/><sub>City – Dark</sub></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-tokyo-theme"><b>Tokyo</b></a><br/><sub>City - Dark</sub></td>
       <td>
          <img src="https://codigrate.com/util/color/1A1F35.png?width=18&height=18" alt="#1A1F35">
          <img src="https://codigrate.com/util/color/2A3051.png?width=18&height=18" alt="#2A3051">

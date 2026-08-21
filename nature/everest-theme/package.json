@@ -1,8 +1,8 @@
 {
   "name": "cod-everest-theme",
   "displayName": "Codigrate Everest Theme",
-  "description": "Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.",
-  "version": "2026.1.17",
+  "description": "Inspired by the icy terraces of Mount Everest and the first light breaking over its peaks, this theme pairs cool white and pale grey backgrounds with deep glacier blues and greens to create a clear and unhurried coding environment. Bright, airy surfaces keep the editor calm, while teals, forest greens, and a warm coral accent add definition and focus to key syntax elements.",
+  "version": "2026.1.19",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
@@ -17,7 +17,7 @@
     "nature",
     "calm",
     "icy",
-    "minimal"
+    "sunrise"
   ],
   "icon": "images/icon.png",
   "galleryBanner": {

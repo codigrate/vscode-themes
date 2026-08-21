@@ -1,8 +1,8 @@
 {
   "name": "cod-autumn-theme",
   "displayName": "Codigrate Autumn Theme",
-  "description": "Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.",
-  "version": "2026.1.18",
+  "description": "Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding environment. Light, gentle surfaces keep the editor comfortable, while deep greens and a quiet teal add contrast and focus to key syntax elements.",
+  "version": "2026.1.20",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

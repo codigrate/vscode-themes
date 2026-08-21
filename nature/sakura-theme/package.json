@@ -1,8 +1,8 @@
 {
   "name": "cod-sakura-theme",
   "displayName": "Codigrate Sakura Theme",
-  "description": "Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.",
-  "version": "2026.1.18",
+  "description": "Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried coding environment. Light, gentle surfaces keep the editor calm, while muted greens and clear sky blues add balance and focus to key syntax elements.",
+  "version": "2026.1.20",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
