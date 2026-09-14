@@ -2,7 +2,7 @@
   "name": "cod-roraima-theme",
   "displayName": "Codigrate Roraima Theme",
   "description": "Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon accents to create a soothing yet vivid coding environment. Dark, earthy backgrounds ground the editor, while soft violets and mineral yellows add contrast and focus to key syntax elements.",
-  "version": "2026.1.22",
+  "version": "2026.1.25",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

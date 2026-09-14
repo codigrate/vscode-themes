@@ -6,6 +6,10 @@
 - Calm, nature-inspired palette designed for long, comfortable coding sessions
 - Actively maintained and regularly refined
 
+Enjoying our theme? Giving us a <b>5-star</b> rating on the VS Code Marketplace helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our <a href="https://github.com/codigrate/vscode-themes/issues"><b>Issue Tracker</b></a>.
+
 ### Color Palette
 <table>
    <tr>
@@ -136,7 +140,7 @@
 
 ### Codigrate Theme Collection
 <br/>
-All 22 themes are available in the All In One plugin, and ten of them are
+All 23 themes are available in the All In One plugin, and eleven of them are
 available there only.
 <br/>
 <br/>
@@ -358,10 +362,6 @@ available there only.
    </tr>
 
 </table>
-
-Enjoying our theme? Giving us a <b>5-star</b> rating on the VS Code Marketplace helps us grow and create more themes!
-
-Have feedback or found an issue? Please report it on our <a href="https://github.com/codigrate/vscode-themes/issues"><b>Issue Tracker</b></a>.
 
 ### Company Website
 <table>

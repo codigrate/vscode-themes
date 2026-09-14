@@ -2,7 +2,7 @@
   "name": "cod-aurora-borealis-theme",
   "displayName": "Codigrate Aurora Borealis Theme",
   "description": "Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm yet vivid coding environment. Dark, cool backgrounds keep the editor restful, while bright cyans, fresh greens, and soft lavenders add clarity and energy to key syntax elements.",
-  "version": "2026.1.20",
+  "version": "2026.1.23",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"
