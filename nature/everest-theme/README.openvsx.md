@@ -144,6 +144,7 @@ All 23 themes are available in the All In One Themes.
 <br/>
 <br/>
 <table width="100%">
+
    <tr>
       <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/everest-theme/images/icon.png" width="52"></td>
       <td width="220"><a href="https://open-vsx.org/extension/codigrate/cod-everest-theme"><b>Everest</b></a><br/><sub>Nature - Light &middot; This Plugin</sub></td>
