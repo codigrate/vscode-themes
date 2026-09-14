@@ -140,7 +140,7 @@ Have feedback or found an issue? Please report it on our <a href="https://github
 
 ### Codigrate Theme Collection
 <br/>
-All 23 themes are available in the All In One plugin, and eleven of them are
+All 23 themes are available in the All In One plugin, and ten of them are
 available there only.
 <br/>
 <br/>

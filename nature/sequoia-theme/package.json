@@ -2,7 +2,7 @@
   "name": "cod-sequoia-theme",
   "displayName": "Codigrate Sequoia Theme",
   "description": "Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused coding environment. Dark, earthy backgrounds settle the editor, while warm tans, rusts, and a clear canopy green add contrast and clarity to key syntax elements.",
-  "version": "2026.1.23",
+  "version": "2026.1.24",
   "publisher": "codigrate",
   "engines": {
     "vscode": "^1.90.0"

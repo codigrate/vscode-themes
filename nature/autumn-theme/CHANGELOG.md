@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.24
+
+- Theme collection updated
+
 ## 2026.1.23
 
 - Update description
