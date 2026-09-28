@@ -140,7 +140,7 @@ Have feedback or found an issue? Please report it on our <a href="https://github
 
 ### Codigrate Theme Collection
 <br/>
-All 23 themes are available in the All In One Themes.
+All 24 themes are available in the All In One Themes.
 <br/>
 <br/>
 <table width="100%">
@@ -250,6 +250,24 @@ All 23 themes are available in the All In One Themes.
          <img src="https://codigrate.com/util/color/8F78B7.png?width=18&height=18" alt="#8F78B7">
          <img src="https://codigrate.com/util/color/7E6AA3.png?width=18&height=18" alt="#7E6AA3"><br/>
          <sub>Sunset - Mystical - Atmospheric</sub>
+      </td>
+   </tr>
+
+   <tr>
+      <td width="72"><img src="https://raw.githubusercontent.com/codigrate/vscode-themes/refs/heads/main/nature/ocean-theme/images/icon.png" width="52"></td>
+      <td width="220"><a href="https://marketplace.visualstudio.com/items?itemName=codigrate.cod-ocean-theme"><b>Ocean</b></a><br/><sub>Nature - Dark</sub></td>
+      <td>
+         <img src="https://codigrate.com/util/color/102B2E.png?width=18&height=18" alt="#102B2E">
+         <img src="https://codigrate.com/util/color/18383C.png?width=18&height=18" alt="#18383C">
+         <img src="https://codigrate.com/util/color/1C4247.png?width=18&height=18" alt="#1C4247">
+         <img src="https://codigrate.com/util/color/5AB590.png?width=18&height=18" alt="#5AB590">
+         <img src="https://codigrate.com/util/color/3FB4D8.png?width=18&height=18" alt="#3FB4D8">
+         <img src="https://codigrate.com/util/color/B88BDA.png?width=18&height=18" alt="#B88BDA">
+         <img src="https://codigrate.com/util/color/EE8EBF.png?width=18&height=18" alt="#EE8EBF">
+         <img src="https://codigrate.com/util/color/DC7783.png?width=18&height=18" alt="#DC7783">
+         <img src="https://codigrate.com/util/color/DC9577.png?width=18&height=18" alt="#DC9577">
+         <img src="https://codigrate.com/util/color/EAC089.png?width=18&height=18" alt="#EAC089"><br/>
+         <sub>Deep - Tranquil - Immersive</sub>
       </td>
    </tr>
 
