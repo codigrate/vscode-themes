@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026.1.21
+
+- Fixed plugin manager colors
+
 ## 2026.1.20
 
 - Theme collection updated
