@@ -28,6 +28,11 @@ for vsix in cities/*-theme/dist/vs-marketplace/*.vsix nature/*-theme/dist/vs-mar
   [[ -e "$vsix" ]] || continue
   # skip iCloud/Finder conflict copies ("<name> 2.vsix") so we never double-publish
   [[ "$vsix" == *" "[0-9]".vsix" ]] && { echo "Skipping duplicate copy: $vsix"; continue; }
+  # premium (trial-gated) extensions are parked and never go out with a release
+  # (base-themes/SELL-PRO-BUNDLE.md); PUBLISH_PREMIUM=1 is the deliberate override
+  if [[ "${PUBLISH_PREMIUM:-}" != "1" ]] && grep -q '"pricing": *"Trial"' "${vsix%%/dist/*}/package.json" 2>/dev/null; then
+    echo "Skipping premium extension: $vsix"; continue
+  fi
   echo "==> Publishing $vsix"
   if npx --yes @vscode/vsce publish --packagePath "$vsix" --pat "$VSCE_PAT"; then
     ok=$((ok+1))
