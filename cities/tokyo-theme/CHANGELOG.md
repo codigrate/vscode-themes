@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026.1.27
+
+- Update description
+
+## 2026.1.26
+
+- Fix description
+
+## 2026.1.25
+
+- Added Bioluminescence to the theme collection
+
+## 2026.1.22
+
+- Fixed plugin manager colors
+
 ## 2026.1.21
 
 - Fixed plugin manager colors
